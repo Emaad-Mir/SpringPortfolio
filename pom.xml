@@ -14,7 +14,7 @@
     <name>spring</name>
     <description>Intro project for Spring Boot</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
         <!-- Thymeleaf 3 -->
         <org.thymeleaf-version>3.1.2.RELEASE</org.thymeleaf-version>
         <org.thymeleaf.extras.springsecurity5-version>3.1.2.RELEASE</org.thymeleaf.extras.springsecurity5-version>

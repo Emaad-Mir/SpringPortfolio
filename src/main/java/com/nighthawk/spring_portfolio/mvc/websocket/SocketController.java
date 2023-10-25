@@ -24,7 +24,7 @@ public class SocketController {
     private SocketIOServer socketServer;
 
     @Autowired
-    void SocketIOController(SocketIOServer socketServer){
+    void SocketController(SocketIOServer socketServer){
         this.socketServer=socketServer;
 
         this.socketServer.addConnectListener(onUserConnectWithSocket);
